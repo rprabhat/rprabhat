@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm an Engineering Manager who still enjoys dabbling in code, specialising in data platforms and distributed system design.</h1>
+<h1>Hi 👋, I'm an Engineering Manager who still enjoys dabbling in code. </h1>
+<h2> specialising in data platforms and distributed system design </h2>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
