@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm an Engineering Manager who still enjoys dabbling in code. </h1>
+<h2>Hi 👋, I'm an Engineering Manager who still enjoys dabbling in code. </h2>
 <h2> specialising in data platforms and distributed system design </h2>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
