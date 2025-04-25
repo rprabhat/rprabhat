@@ -40,7 +40,7 @@
 <li><a target="_blank" href="https://prabhatranjan.substack.com/p/standardisation-vs-customisation">Standardisation vs customisation The Ongoing Tension</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/r_prabhat" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/mwlite/in/prabhatr" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<a target="_blank" href="https://www.linkedin.com/in/prabhatr/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rprabhat&show_icons=true&locale=en" alt="rprabhat" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rprabhat&" alt="rprabhat" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rprabhat&show_icons=true&locale=en&layout=compact" alt="rprabhat" /></p>
