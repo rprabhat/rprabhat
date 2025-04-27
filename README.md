@@ -36,7 +36,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://prabhatranjan.substack.com/p/functors-applicatives-and-monads">When Clarity Isn’t Enough</a></li>
+<li><a target="_blank" href="https://prabhatranjan.substack.com/p/functors-applicatives-and-monads">Functors, Applicatives, and Monads with Real-Life Examples</a></li>
 <li><a target="_blank" href="https://prabhatranjan.substack.com/p/when-clarity-isnt-enough-rethinking">When Clarity Isn’t Enough</a></li>
 <li><a target="_blank" href="https://prabhatranjan.substack.com/p/standardisation-vs-customisation">Standardisation vs customisation The Ongoing Tension</a></li>
 <h2>⚡️ Where to find me</h2>
