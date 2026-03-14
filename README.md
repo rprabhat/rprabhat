@@ -1,6 +1,20 @@
 <h2>Hi 👋, I'm an engineering manager who still enjoys dabbling in code. </h2>
 <p></p>
 <p></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://prabhatranjan.substack.com/p/technical-debt-the-hidden-cost-of">Technical Debt: The Hidden Cost of Software Development</a></li>
+<li><a target="_blank" href="https://prabhatranjan.substack.com/p/functors-applicatives-and-monads">Functors, Applicatives, and Monads with Real-Life Examples</a></li>
+<li><a target="_blank" href="https://prabhatranjan.substack.com/p/when-clarity-isnt-enough-rethinking">When Clarity Isn’t Enough</a></li>
+<li><a target="_blank" href="https://prabhatranjan.substack.com/p/standardisation-vs-customisation">Standardisation vs customisation The Ongoing Tension</a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://x.com/r_prabhat" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/prabhatr/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://prabhatranjan.substack.com" style="display: inline-block;"><img src="https://img.shields.io/badge/substack-logo?style=for-the-badge&logo=substack&logoColor=white&color=%23ff6719" alt="Substack" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rprabhat&show_icons=true&locale=en" alt="rprabhat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rprabhat&" alt="rprabhat" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rprabhat&show_icons=true&locale=en&layout=compact" alt="rprabhat" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rprabhat" alt="rprabhat" /></a></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -34,15 +48,3 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://prabhatranjan.substack.com/p/functors-applicatives-and-monads">Functors, Applicatives, and Monads with Real-Life Examples</a></li>
-<li><a target="_blank" href="https://prabhatranjan.substack.com/p/when-clarity-isnt-enough-rethinking">When Clarity Isn’t Enough</a></li>
-<li><a target="_blank" href="https://prabhatranjan.substack.com/p/standardisation-vs-customisation">Standardisation vs customisation The Ongoing Tension</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://x.com/r_prabhat" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/prabhatr/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rprabhat&show_icons=true&locale=en" alt="rprabhat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rprabhat&" alt="rprabhat" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rprabhat&show_icons=true&locale=en&layout=compact" alt="rprabhat" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rprabhat" alt="rprabhat" /></a></p>
