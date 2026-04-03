@@ -1,53 +1,49 @@
-Hi 👋, I'm Prabhat Ranjan.
+```yaml
+whoami: Prabhat
+role: Foundational Engineer & Fractional CTO
+location: Sydney, AU
+status: building data-intensive systems that don't suck
 
-Building data-intensive systems and exploring the intersection of data, ML, and software engineering.
+superpowers:
+  - Data engineering at scale (Spark, Kafka, PostgreSQL)
+  - ML/AI pipelines (computer vision, NLP, the usual suspects)
+  - Distributed systems (if it doesn't crash under load, it wasn't hard enough)
+  - Cloud architecture (AWS, the only cloud that matters)
+  - Regulatory compliance (HIPAA, GDPR, SOC 2 — yeah, the fun stuff)
 
-## 🔧 Technical Focus
+stack:
+  primary: [Python, Scala, TypeScript]
+  jvm: [Java, Apache Ignite Contributor]
+  cloud: [AWS, Docker]
+  data: [Spark, Kafka, PostgreSQL]
 
-### Data Engineering & Analytics
-- ETL pipelines, data warehousing
-- Apache Spark, Kafka, PostgreSQL
-- Property & financial data platforms
+open_source:
+  - apache/ignite: Because distributed caching should be free
+  - chart-digitizer: Extracting data points from charts like a boss (18★ and climbing)
+  - Various experiments that may or may not become production-ready
 
-### Machine Learning & AI
-- Computer vision, NLP
-- Chart digitization & data extraction
-- Python, Jupyter, TensorFlow/PyTorch
+hot_takes:
+  - "AI won't save you if your data is a mess"
+  - "Technical debt is the only debt that compounds"
+  - "If it doesn't have tests, it doesn't work"
+  - "Docker is just lightweight VMs for people who can't afford real ones"
 
-### Backend Systems
-- Distributed systems
-- Java/Scala microservices
-- TypeScript/Node.js APIs
-- Docker, AWS
+currently:
+  - Building reasoning engines for regulated industries
+  - Making healthcare and finance data actually useful
+  - Wondering why SQL always wins
 
-## 📦 Notable Projects
+don't_ask:
+  - Why not Rust? (yet)
+  - To consult on your startup (maybe)
+  - For a referral (I don't have any)
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [chart-digitizer](https://rprabhat.github.io/chart-digitizer) | ML-based chart data extraction | 18 ⭐ |
-| [qullamaggie_scanner](https://github.com/rprabhat/qullamaggie_scanner) | Momentum stock scanner | - |
-| [video_analysis](https://github.com/rprabhat/video_analysis) | AI study companion | - |
-| [PropRoo](https://github.com/Sensible-Analytics/PropRoo) | Property analytics engine | - |
-| [apache/ignite](https://github.com/apache/ignite) | Open source contribution | - |
+contact:
+  - github.com/rprabhat
+  - linkedin.com/in/prabhatr
+  - sensibleanalytics.co (for the stuff I get paid for)
+  - rprabhat.github.io (my corner of the internet)
 
-## 📝 Blog
-
-Technical articles on software engineering, data systems, and AI:
-**[rprabhat.github.io/blog](https://rprabhat.github.io/blog)**
-
-Latest posts:
-- AI Won't Save You If Your Data Is a Mess
-- There Is Nothing Like Home
-- The AI Moment: Looking Back to Look Forward
-- Technical Debt: The Hidden Cost of Software Development
-
-## 🌐 Connect
-
-[![Blog](https://img.shields.io/badge/blog-0d1117?style=flat&logo=rss&logoColor=orange)](https://rprabhat.github.io/blog)
-[![Twitter](https://img.shields.io/badge/@r_prabhat-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/r_prabhat)
-[![LinkedIn](https://img.shields.io/badge/prabhatr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhatr/)
-
-## 📊 GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=rprabhat&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rprabhat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+*This README was compiled with 100% caffeinated beverages and zero meetings.*
+*Last ping: $(date +"%Y-%m-%d")*
