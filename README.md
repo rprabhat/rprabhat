@@ -24,22 +24,28 @@ Building data-intensive systems and exploring the intersection of data, ML, and 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [chart-digitizer](https://github.com/rprabhat/chart-digitizer) | ML-based chart data extraction | 18 ⭐ |
+| [chart-digitizer](https://rprabhat.github.io/chart-digitizer) | ML-based chart data extraction | 18 ⭐ |
 | [qullamaggie_scanner](https://github.com/rprabhat/qullamaggie_scanner) | Momentum stock scanner | - |
 | [video_analysis](https://github.com/rprabhat/video_analysis) | AI study companion | - |
 | [PropRoo](https://github.com/Sensible-Analytics/PropRoo) | Property analytics engine | - |
 | [apache/ignite](https://github.com/apache/ignite) | Open source contribution | - |
 
-## 📈 Recent Posts
+## 📝 Blog
 
-- [Technical Debt: The Hidden Cost of Software Development](https://prabhatranjan.substack.com/p/technical-debt-the-hidden-cost-of)
-- [Functors, Applicatives, and Monads with Real-Life Examples](https://prabhatranjan.substack.com/p/functors-applicatives-and-monads)
+Technical articles on software engineering, data systems, and AI:
+**[rprabhat.github.io/blog](https://rprabhat.github.io/blog)**
+
+Latest posts:
+- AI Won't Save You If Your Data Is a Mess
+- There Is Nothing Like Home
+- The AI Moment: Looking Back to Look Forward
+- Technical Debt: The Hidden Cost of Software Development
 
 ## 🌐 Connect
 
+[![Blog](https://img.shields.io/badge/blog-0d1117?style=flat&logo=rss&logoColor=orange)](https://rprabhat.github.io/blog)
 [![Twitter](https://img.shields.io/badge/@r_prabhat-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/r_prabhat)
 [![LinkedIn](https://img.shields.io/badge/prabhatr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhatr/)
-[![Substack](https://img.shields.io/badge/prabhatranjan-FF671F?style=flat&logo=substack&logoColor=white)](https://prabhatranjan.substack.com)
 
 ## 📊 GitHub Stats
 
